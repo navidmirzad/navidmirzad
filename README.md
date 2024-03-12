@@ -1,3 +1,4 @@
+[![MasterHead](https://www.anques.com/wp-content/uploads/2019/07/web-development.jpg)](https://navidmirzad.dk/)
 <h1 align="center">Hi 👋, I'm Navid</h1>
 <h3 align="center">Software & Web developer!</h3>
 
