@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navidmirzad&label=Profile%20views&color=0e75b6&style=flat" alt="navidmirzad" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navidmirzad&label=Profile%20views&color=0e75b6&style=flat" alt="navidmirzad" /> </p>
-
 - 🔭 I’m currently working on  A portfolio project in React!
 
 - 🌱 I’m currently learning **React, Node.JS and DSA**
