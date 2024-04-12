@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navidmirzad&label=Profile%20views&color=0e75b6&style=flat" alt="navidmirzad" /> </p>
 
-- 🔭 I’m currently working on  A portfolio project in React!<a href="navidmirzad.dk">www.navidmirzad.dk</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navidmirzad&label=Profile%20views&color=0e75b6&style=flat" alt="navidmirzad" /> </p>
+
+- 🔭 I’m currently working on  A portfolio project in React! <a href="https://navidmirzad.dk">www.navidmirzad.dk</a>
 
 - 🌱 I’m currently learning **React, Node.JS and DSA**
 
-- 👨‍💻 All of my projects are available at <a href="navidmirzad.dk" rel="noopener noreferrer" target="_blank">navidmirzad.dk</a>
+- 👨‍💻 All of my projects are available at <a href="https://navidmirzad.dk" rel="noopener noreferrer" target="_blank">navidmirzad.dk</a>
 
 - 📫 How to reach me **navidmirzad@hotmail.com**
 
